@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\bin\Debug\net8.0\ThreeNumbers.exe
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\bin\Debug\net8.0\ThreeNumbers.deps.json
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\bin\Debug\net8.0\ThreeNumbers.runtimeconfig.json
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\bin\Debug\net8.0\ThreeNumbers.dll
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\bin\Debug\net8.0\ThreeNumbers.pdb
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\obj\Debug\net8.0\ThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\obj\Debug\net8.0\ThreeNumbers.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\obj\Debug\net8.0\ThreeNumbers.AssemblyInfo.cs
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\obj\Debug\net8.0\ThreeNumbers.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\obj\Debug\net8.0\ThreeNumbers.dll
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\obj\Debug\net8.0\refint\ThreeNumbers.dll
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\obj\Debug\net8.0\ThreeNumbers.pdb
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\obj\Debug\net8.0\ThreeNumbers.genruntimeconfig.cache
+c:\Users\User\Desktop\ThreeNumbers\ThreeNumbers\obj\Debug\net8.0\ref\ThreeNumbers.dll
