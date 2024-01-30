@@ -18,7 +18,7 @@ class ThreeNumbers{
         
             smallerNumber = numberThree;
   }
-    Console.WriteLine("The smaller number is" + smallerNumber);
+    Console.WriteLine("The smaller number is" + " " + smallerNumber);
   
   }
   }
